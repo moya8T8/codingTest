@@ -6,3 +6,5 @@ for _ in range(T):
   for i in range(len(n)):
     if(n[-i-1] == '1'):
       print(i, end=' ')
+
+      #T와 N을 미리 정하고 시작하는 거 좋은 방법인거 같습니다 
